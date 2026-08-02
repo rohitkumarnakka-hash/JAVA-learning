@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Game{
+public class Gamee{
     public static void main(String[] args){
         int random = 99;
         int attempts = 0;
